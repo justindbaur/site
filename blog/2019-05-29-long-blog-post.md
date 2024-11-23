@@ -3,6 +3,7 @@ slug: long-blog-post
 title: Long Blog Post
 authors: jb
 tags: [dotnet]
+draft: true
 ---
 
 This is the summary of a very long blog post,
