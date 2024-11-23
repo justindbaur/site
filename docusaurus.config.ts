@@ -38,7 +38,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/justindbaur/site/tree/main/docs/',
+            'https://github.com/justindbaur/site/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -47,7 +47,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/justindbaur/site/tree/main/blog/',
+            'https://github.com/justindbaur/site/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
