@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
         Read the docs about my mocking library Pretender.
       </>
     ),
-    link: "/docs",
+    link: "/docs/pretender",
   },
   {
     title: 'Bitwarden',
