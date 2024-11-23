@@ -90,7 +90,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Pretender',
               to: '/docs/category/pretender',
             },
           ],
