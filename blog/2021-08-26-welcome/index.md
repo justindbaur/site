@@ -6,6 +6,8 @@ draft: true
 ---
 Markdown documents can use the following Markdown front matter metadata fields, enclosed by a line --- on either side.The blog post date can be extracted from filenames, such as:
 
+<!-- truncate -->
+
 - `2019-05-30-welcome.md`
 - `2019-05-30-welcome/index.md`
 
