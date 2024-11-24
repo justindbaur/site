@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Installation
 
+![NuGet Version](https://img.shields.io/nuget/vpre/Pretender)
+
 To install pretender:
 
 ```bash
