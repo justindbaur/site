@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation
 
-![NuGet Version](https://img.shields.io/nuget/vpre/Pretender)
+[![NuGet Version](https://img.shields.io/nuget/vpre/Pretender)](https://nuget.org)
 
 To install pretender:
 
