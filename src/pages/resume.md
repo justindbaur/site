@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 # Justin Baur
 
 Contact: me@justinbaur.com
@@ -13,7 +17,7 @@ Contact: me@justinbaur.com
 ##### .NET
 
 - Built testing infrastructure for validating our data access layer against Sqlite, Postgres, MySql, and SQL Server.
-- Created a server SDK with observability for ensuring high throughput and availibility of our services.
+- Created a server SDK with observability for ensuring high throughput and availability of our services.
 - Took part in major upgrades to keep us up to date with 
 
 ##### Angular
